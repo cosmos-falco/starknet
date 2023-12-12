@@ -15,5 +15,3 @@ mod HelloStarknet {
     }
 
 }
-test test
-test test
